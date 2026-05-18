@@ -1,0 +1,32 @@
+
+h1 {
+    color: #986e49;
+    font-family: 'monaco bold', monospace;
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+h2 {
+    background-color: #715128;
+    color: #fff;
+     font-family: 'monaco bold', monospace;
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+article {
+    border: 10px solid #121111;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: hsl(34, 57%, 86%); 
+     font-family: 'monaco', monospace;
+}
+button {
+    background-color: #715128;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+ 
